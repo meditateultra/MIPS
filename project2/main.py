@@ -1,5 +1,3 @@
-import numpy as np
-from utils import *
 from instruction import *
 from simulation import *
 from scoreboard import ScoreBoard
